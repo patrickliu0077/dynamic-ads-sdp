@@ -1,0 +1,44 @@
+{
+  "name": "@dynamicads/sdk",
+  "version": "1.0.0",
+  "description": "Node.js SDK for DynamicAds - Generate engaging ads with AI",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dynamicads",
+    "ads",
+    "ai",
+    "generation",
+    "sdk"
+  ],
+  "author": "DynamicAds Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dynamicads/sdk-node"
+  },
+  "bugs": {
+    "url": "https://github.com/dynamicads/sdk-node/issues"
+  },
+  "homepage": "https://github.com/dynamicads/sdk-node#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@types/node": "^20.10.4",
+    "axios": "^1.6.2",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ]
+}
