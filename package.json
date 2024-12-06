@@ -16,16 +16,16 @@
     "generation",
     "sdk"
   ],
-  "author": "DynamicAds Team",
+  "author": "Patrick Liu",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dynamicads/sdk-node"
+    "url": "https://github.com/patrickliu0077/dynamic-ads-sdp.git"
   },
   "bugs": {
-    "url": "https://github.com/dynamicads/sdk-node/issues"
+    "url": "https://github.com/patrickliu0077/dynamic-ads-sdp/issues"
   },
-  "homepage": "https://github.com/dynamicads/sdk-node#readme",
+  "homepage": "https://github.com/patrickliu0077/dynamic-ads-sdp#readme",
   "publishConfig": {
     "access": "public"
   },
